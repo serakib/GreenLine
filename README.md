@@ -8,5 +8,5 @@ Use precise steering, acceleration, reverse, and drift mechanics to survive.
 Built with responsive keyboard and touch controls for desktop and mobile.
 Features dynamic camera movement, particle effects, sound effects, and local leaderboards.
 Built using HTML5 Canvas, CSS3, and JavaScript.
-🌐 Play: [Your Game Link] • 👨‍💻 Portfolio: [Your Portfolio Link]
+🌐 Play: [https://serakib.github.io/GreenLine/] • 👨‍💻 Portfolio: [https://rakibhasandc27.blogspot.com/]
 © 2026 — All Rights Reserved.
